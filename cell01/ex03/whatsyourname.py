@@ -1,4 +1,4 @@
 #!/usr/bin/env python3
-first_name = input("Enter your first name ")
-last_name = input("Enter your last name ")
-print(f"My name is {first_name} {last_name}")
+first_name = input("Hey, what's your first name?: ")
+last_name = input("And your last name?")
+print(f"Well, pleased to meet you, {first_name} {last_name}")
